@@ -35,7 +35,8 @@ header{
     width: 99.5%;
     background-color: rgb(58, 173, 62);
     padding-top: 20px;
-    border-radius: 8px;
+    border-radius: 1px;
+    align-content: center;
 }
 nav ul{
     display: flex;
@@ -596,6 +597,7 @@ nav ul li a{
 /* <Footer Section> */
 
 .footer-section{
+    display: ;
     bottom: 0;
     width: 100%;
     height: 120px;
