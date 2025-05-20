@@ -672,18 +672,15 @@ nav ul li a{
     padding-top: 16px;
 }
 .sub-footer a{
-    width: 120px;
-    /* height: 40px; */
     background-color: #13a80e;
     color: white;
     font-weight: bold;
     border-radius: 5px;
     text-decoration: none;
     align-content: center;
-    padding: 5px;
+    padding: 8px;
     align-items: center;
     justify-items: center;
-    /* margin-bottom: 10px; */
 
 }
 
